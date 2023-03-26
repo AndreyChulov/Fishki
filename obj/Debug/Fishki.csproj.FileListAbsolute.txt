@@ -1,0 +1,6 @@
+C:\Projects\Fishki\Fishki\obj\Debug\Fishki.csprojAssemblyReference.cache
+C:\Projects\Fishki\Fishki\obj\Debug\Fishki.csproj.CoreCompileInputs.cache
+C:\Projects\Fishki\Fishki\bin\Debug\Fishki.exe
+C:\Projects\Fishki\Fishki\bin\Debug\Fishki.pdb
+C:\Projects\Fishki\Fishki\obj\Debug\Fishki.exe
+C:\Projects\Fishki\Fishki\obj\Debug\Fishki.pdb
